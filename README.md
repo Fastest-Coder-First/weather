@@ -61,6 +61,17 @@ Current weather: Clear, 1.0°C
     2020-02-22: Clear, 4.0°C
     2020-02-23: Clear, 4.0°C
 ```
+
+## GitHub Co-Pilot Usage 
+
+Watch this video to see how I used GitHub Co-Pilot to write the code for this project:
+
+https://watch.screencastify.com/v/CXfJLuprHxSCn7fGclgQ
+
+I used GitHub Co-Pilot to create the following files:
+1. readme.md : This file helped me  to create basic overview of the project. Acted as guidelines for the project.
+2. weathr.py : This implemented the functionality specified in readme.md. It helped me to create the basic structure of the project.
+
     
 ## Author
 Kushal Bhabra
