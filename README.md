@@ -32,7 +32,7 @@ optional arguments:
   -c CITY, --city CITY  City name
   -u UNITS, --units UNITS
                         Units of measurement. Default: standard
-  -f {json,xml}, --format {json,xml}
+  -f {json, string}, --format {json, string}
                         Output format. Default: json
   -v, --version         show program's version number and exit
 ```

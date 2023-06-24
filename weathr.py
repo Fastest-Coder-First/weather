@@ -25,7 +25,6 @@ import argparse
 import json
 import sys
 import urllib.request
-import xml.etree.ElementTree as ET
 
 # Fetch API key from environment variable
 API_KEY = os.environ.get('OPEN_WEATHER_MAP_API_KEY')
